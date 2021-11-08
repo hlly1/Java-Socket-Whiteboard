@@ -1,0 +1,2 @@
+java -cp target\pb3-0.0.1-SNAPSHOT-jar-with-dependencies.jar pb.WhiteboardServer
+java -cp target\pb3-0.0.1-SNAPSHOT-jar-with-dependencies.jar pb.WhiteboardPeer
